@@ -48,16 +48,17 @@
            width: 100%;
            
        }
-    .menu-area ul li{
+    
+    .mnav{
         width: 100%;
         display: flex;
-        padding: 0px;
-        flex-direction: column;
-        text-align: center;
+        flex-wrap: wrap;
+        align-items: center;
+        align-content: center;
        
             }
   
-    .menu-area ul li a{
+    .mnav ul li a{
       
         border-bottom: 2px solid gray;
             } 
