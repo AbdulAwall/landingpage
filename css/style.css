@@ -126,7 +126,7 @@ ul.menu-area{
 
 
 ul.menu-area li{
-margin-left: auto;
+/* margin-left: auto; */
 }
 .menu-area li a {
    padding: 15px;
